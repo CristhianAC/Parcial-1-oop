@@ -1,0 +1,15 @@
+@startuml Libraryuml
+class Library{
+    books:array
+    printbooks()
+    updateBooks(bookToAdd:str)
+    modify(opc:int, book:str)
+}
+class User{
+    name:str
+    ask(bookSolicitude:str, library:Library)
+    returnBooks(book, library:Library)
+    askforBooks(library: Library)
+}
+Library "*" *-- "*" User
+@enduml
