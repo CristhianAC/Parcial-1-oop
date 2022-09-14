@@ -23,6 +23,6 @@
 
 ## Referencias
 
-    Para crear este readme se usó como guia el readme del repositorio del profesor Jose Posada. [link](https://github.com/jdposada/oop_202230/blob/master/README.md?plain=1).
+    Para crear este readme se usó como guia el readme del repositorio del profesor Jose Posada. (https://github.com/jdposada/oop_202230/blob/master/README.md?plain=1).
 
 
